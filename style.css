@@ -43,7 +43,6 @@ form{
 .first:hover{
     transition: all 0.3s ease-in-out;
     box-shadow: 10px 10px 5px rgb(40, 38, 38);
-    width: 40rem;
 }
 .percen{
     font-size: 3rem;
