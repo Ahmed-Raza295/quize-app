@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Baloo 2", sans-serif;
+    background-color: lightcyan;
+}
+.container{
+width: 100%;
+height: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: lightcyan;
+}
+.top{
+text-align: center;
+margin-top: 2rem;
+font-size: 1.5rem;
+}
+.top p{
+margin-top: 1rem;
+font-size: 2rem;
+}
+.main{
+width: 40rem;
+height: 100%;
+background-color: lightcyan;
+}
+
+form{
+    padding: 0px 10px;
+}
+
+.first{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    border-radius: 1rem;
+}
+.first:hover{
+    transition: all 0.3s ease-in-out;
+    box-shadow: 10px 10px 5px rgb(40, 38, 38);
+    width: 40rem;
+}
+.percen{
+    font-size: 3rem;
+}
+
+
+
+
+
